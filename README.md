@@ -1,2 +1,2 @@
-# Programming-Fundamentals
-SoftUni - Programming Fundamentals
+# Programming-Fundamentals 
+SoftUni - Programming Fundamentals with JAVA
