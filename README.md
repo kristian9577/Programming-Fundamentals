@@ -1,2 +1,2 @@
 # Programming-Fundamentals 
-SoftUni - Programming Fundamentals with JAVA
+The „Programming Fundamentals - Java” course introduces the students to the fundamentals of Java programming. Studying Java constructs to build program logic, data types, operators, expressions, conditional constructs, cycles, and function handling. Attention on the course is drawn to work with arrays, lists, dictionaries, strings and regular expressions, use of objects, associative arrays and sets.
